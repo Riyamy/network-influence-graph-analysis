@@ -1,10 +1,5 @@
+## License
 
----
+This project is licensed under the [MIT License](LICENSE).
 
-### 3. Initialize Git & Commit Changes
-From inside your project folder:
 
-```bash
-git init
-git add .
-git commit -m "✨ Added Streamlit dashboard with analysis + visualization features"
